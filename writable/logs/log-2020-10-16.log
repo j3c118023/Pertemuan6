@@ -1,0 +1,33 @@
+CRITICAL - 2020-10-16 10:37:31 --> Unable to connect to the database.
+#0 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\app\Models\Program_Studi_Model.php(17): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\app\Controllers\Program_Studi.php(18): App\Models\Program_Studi_Model->get()
+#4 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Program_Studi->index()
+#5 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Program_Studi))
+#6 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Galih ...')
+#9 {main}
+CRITICAL - 2020-10-16 10:38:26 --> Unable to connect to the database.
+#0 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\app\Models\Program_Studi_Model.php(17): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\app\Controllers\Program_Studi.php(18): App\Models\Program_Studi_Model->get()
+#4 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Program_Studi->index()
+#5 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Program_Studi))
+#6 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Galih ...')
+#9 {main}
+CRITICAL - 2020-10-16 10:38:42 --> Unable to connect to the database.
+#0 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\app\Models\Program_Studi_Model.php(17): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\app\Controllers\Program_Studi.php(18): App\Models\Program_Studi_Model->get()
+#4 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Program_Studi->index()
+#5 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Program_Studi))
+#6 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\Users\Galih W Priambudi\Downloads\2020-pbw-master\buat_diana_pert6\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\Users\\Galih ...')
+#9 {main}
